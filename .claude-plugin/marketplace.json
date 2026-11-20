@@ -1,0 +1,6 @@
+{
+  "name": "local-mods",
+  "description": "A tiny pixel critter that keeps you company in Claude Code.",
+  "owner": { "name": "tusharmathankar123" },
+  "plugins": [{ "name": "walking-buddy", "source": "./" }]
+}

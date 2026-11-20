@@ -1,1 +1,1 @@
-{ "name": "walking-buddy", "version": "0.1.0", "description": "A little orange pixel critter that strolls above the prompt while you chat, and scurries while Claude works." }
+{ "name": "walking-buddy", "version": "0.1.0", "license": "MIT","description": "A little orange pixel critter that strolls above the prompt while you chat, and scurries while Claude works." }
